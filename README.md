@@ -1,4 +1,4 @@
-##Ejercicios Variados
+## Ejercicios Variados
 
 En este repositorio encontrarás una colección de ejercicios en C++ que realicé durante mi primer semestre de Ingeniería. Los ejercicios cubren una variedad de temas como sumas, estadísticas, cálculos, secuencias y más. Los subo por nostalgia y con la esperanza de que puedan ser útiles para alguien más. 😊
 
