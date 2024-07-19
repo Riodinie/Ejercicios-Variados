@@ -1,4 +1,4 @@
-//*Elabore un código que muestre el factorial de un número seleccionado por el usuario.*//
+//*Elabore un cÃ³digo que muestre el factorial de un nÃºmero seleccionado por el usuario.*//
 
 #include <iostream>
 
@@ -8,7 +8,7 @@ int main(){
 	
 	int n,i,a=1,b;
 	
-	cout<<"Ingrese numero: " ; cin>>n;
+	cout<<"Ingrese nÃºmero: " ; cin>>n;
 	
 	for(i=1;i<=n;i++){
 		
